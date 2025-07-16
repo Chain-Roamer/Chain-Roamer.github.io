@@ -8,7 +8,14 @@
     <author>
       <name>Chain Roame</name>
     </author>
-    <updated>2025-07-16T05:08:25.000Z</updated>
+    <updated>2025-07-16T12:56:09.000Z</updated>
+    <entry>
+        <id>http://localhost:4000/2025/07/16/Python/</id>
+        <title>Python</title>
+        <link rel="alternate" href="http://localhost:4000/2025/07/16/Python/"/>
+        <content type="html"></content>
+        <updated>2025-07-16T12:56:09.000Z</updated>
+    </entry>
     <entry>
         <id>http://localhost:4000/2025/07/16/Ehternet/</id>
         <title>Ehternaut</title>
