@@ -3,8 +3,8 @@
     <channel>
         <title>Chain Roame</title>
         <subtitle></subtitle>
-        <icon>https://localhost:4000/assets/favicon.ico</icon>
-        <link>https://localhost:4000</link>
+        <icon>https://chain-roamer.github.io/assets/favicon.ico</icon>
+        <link>https://Chain-Roamer.github.io</link>
         <author>
           <name>Chain Roame</name>
         </author>
@@ -13,18 +13,18 @@
         <pubDate>Wed, 16 Jul 2025 20:56:09 +0800</pubDate>
         <lastBuildDate>Wed, 16 Jul 2025 20:56:09 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://localhost:4000/2025/07/16/Python/</guid>
+            <guid isPermalink="true">https://chain-roamer.github.io/2025/07/16/Python/</guid>
             <title>Python</title>
-            <link>https://localhost:4000/2025/07/16/Python/</link>
+            <link>https://chain-roamer.github.io/2025/07/16/Python/</link>
             <pubDate>Wed, 16 Jul 2025 20:56:09 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://localhost:4000/2025/07/16/Ehternet/</guid>
+            <guid isPermalink="true">https://chain-roamer.github.io/2025/07/16/Ehternet/</guid>
             <title>Ehternaut</title>
-            <link>https://localhost:4000/2025/07/16/Ehternet/</link>
-            <category term="blockchain" scheme="https://localhost:4000/categories/blockchain/" />
-            <category term="blockchain" scheme="https://localhost:4000/tags/blockchain/" />
+            <link>https://chain-roamer.github.io/2025/07/16/Ehternet/</link>
+            <category term="blockchain" scheme="https://chain-roamer.github.io/categories/blockchain/" />
+            <category term="blockchain" scheme="https://chain-roamer.github.io/tags/blockchain/" />
             <pubDate>Wed, 16 Jul 2025 13:08:25 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;force&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#force&#34;&gt;#&lt;/a&gt; Force&lt;/h2&gt;
 &lt;figure class=&#34;highlight solidity&#34;&gt;&lt;figcaption data-lang=&#34;Solidity (Ethereum)&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// SPDX-License-Identifier: MIT&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;pragma&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;solidity&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;token version number&#34;&gt;0.8.0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;contract&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Force&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;/*&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                   MEOW ?&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;         /\_/\   /&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    ____/ o o \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  /~____  =ø= /&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; (______)__m_m)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;*/&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight solidity&#34;&gt;&lt;figcaption data-lang=&#34;Solidity (Ethereum)&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;contract&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Hack&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token keyword&#34;&gt;constructor&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token builtin&#34;&gt;address&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;payable&lt;/span&gt; _owner&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;payable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;selfdestruct&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt; _owner&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;king&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#king&#34;&gt;#&lt;/a&gt; King&lt;/h2&gt;
