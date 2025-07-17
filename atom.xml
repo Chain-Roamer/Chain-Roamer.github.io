@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Chain-Roamer.github.io</id>
-    <title>1</title>
+    <title>Chain Roame</title>
     <subtitle></subtitle>
     <icon>https://chain-roamer.github.io/assets/favicon.ico</icon>
     <link href="https://Chain-Roamer.github.io" />
     <author>
-      <name>1</name>
+      <name>Chain Roame</name>
     </author>
     <updated>2025-07-16T12:56:09.000Z</updated>
     <entry>
